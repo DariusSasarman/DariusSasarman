@@ -36,7 +36,7 @@ Projects I built myself, fully from scratch:
 ---
 
 ### 2️⃣ Experimental Vibe-Coded Projects
-Projects made with the help of LLMs and AI-assisted development, in my own free time:
+Projects made with the help of LLMs and AI-assisted development, as past time activities:
 
 - **[A.I.-reply-arena](https://github.com/DariusSasarman/A.I.-reply-arena)**  
   🧙‍♂️📜🔮🤖✨Got a question and don't know which A.I. to ask? Ask them all! And then, pick the winner. A full-stack solution that calls several AI api's at once. 
