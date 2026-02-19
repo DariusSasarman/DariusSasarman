@@ -9,7 +9,7 @@ This GitHub profile serves as my **technical portfolio**.
 
 ---
 
-## 🛠️ Project Categories
+## 🛠️ Displayed projects 
 
 The projects showcased here fall into **two categories**:
 
@@ -36,7 +36,7 @@ Projects I built myself, fully from scratch:
 ---
 
 ### 2️⃣ Experimental Vibe-Coded Projects
-Projects made with the help of LLMs and AI-assisted development:
+Projects made with the help of LLMs and AI-assisted development, in my own free time:
 
 - **[A.I.-reply-arena](https://github.com/DariusSasarman/A.I.-reply-arena)**  
   🧙‍♂️📜🔮🤖✨Got a question and don't know which A.I. to ask? Ask them all! And then, pick the winner. A full-stack solution that calls several AI api's at once. 
@@ -45,7 +45,7 @@ Projects made with the help of LLMs and AI-assisted development:
   🔬🎼⚡️🤖📡 An audio matching software designed to identify songs from short clips of sound. Using a dual-perspective approach of FFT fingerprinting and CLAP vectors, it delivers the exact timestamped matches and "vibe" similarities. 
   
 - **[Your-own-GPT](https://github.com/DariusSasarman/Your-own-GPT)**  
-  💬🤖✨🔮💻 A LLM that runs on your computer using a single Python file. This is meant to be an introduction to building large language models 
+  💬🤖✨🔮💻 A SLM that runs on your computer using a single Python file. This is meant to be an introduction to building large language models 
 
 - **[Stay-Locked-In](https://github.com/DariusSasarman/Stay-Locked-in)**  
   ⛓️🔒⏳🌐⛔A meme browser plugin made for Firefox that lets you choose what pages are distracting you from doing your work and helps you stop them 
@@ -53,10 +53,6 @@ Projects made with the help of LLMs and AI-assisted development:
 - **[AreWeThereYet](https://github.com/DariusSasarman/AreWeThereYet)**  
   ⏰🗺️📍🔔📲An Android app that wakes you up when you get near your target destination. Now you can sleep tight while traveling. 
   
----
-
-These projects help me **expand my knowledge of systems** through active, hands-on practice.  
-
 ---
 
 ✨ Thanks for visiting my profile — feel free to explore and connect!
