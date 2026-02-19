@@ -7,6 +7,10 @@ I design and build solutions to problems I encounter in my day-to-day life.
 
 This GitHub profile serves as my **technical portfolio**.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DariusSasarman&count_private=true&show_icons=true&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DariusSasarman&langs_count=5&theme=tokyonight)]()
+
+
 ---
 
 ## 🛠️ Displayed projects 
